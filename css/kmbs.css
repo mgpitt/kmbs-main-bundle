@@ -1,0 +1,14 @@
+html, body {
+    overflow-x: hidden;
+}
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  color: #312F38;
+  background-color: white !important;
+}
+
+.kmbs-logo-row {
+    background-color: white;
+    padding: 10px;
+}
